@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <test name="PhpTest(failed)">
+    <classes>
+      <class name="functionality.Registration">
+        <methods>
+          <include name="resgistration"/>
+        </methods>
+      </class> <!-- functionality.Registration -->
+    </classes>
+  </test> <!-- PhpTest(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
